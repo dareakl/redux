@@ -7,7 +7,6 @@ const ORDER_PIZZA = "ORDER_PIZZA";
 //     type:ORDER_PIZZA,
 //     shop_name:"Pizza Shop"
 // }
-
 // Action Creator
 function orderPizza() {
   return {
